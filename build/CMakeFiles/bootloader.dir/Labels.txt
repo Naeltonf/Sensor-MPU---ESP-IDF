@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/t002154/cerca-virtual-mpu9250/build/CMakeFiles/bootloader
+C:/Users/t002154/cerca-virtual-mpu9250/build/CMakeFiles/bootloader.rule
+C:/Users/t002154/cerca-virtual-mpu9250/build/CMakeFiles/bootloader-complete.rule
+C:/Users/t002154/cerca-virtual-mpu9250/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/t002154/cerca-virtual-mpu9250/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/t002154/cerca-virtual-mpu9250/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/t002154/cerca-virtual-mpu9250/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/t002154/cerca-virtual-mpu9250/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/t002154/cerca-virtual-mpu9250/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/t002154/cerca-virtual-mpu9250/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
